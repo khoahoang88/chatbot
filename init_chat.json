@@ -2,7 +2,7 @@
                                                             "organizationId" : "''' + ORG_ID + '''",
                                                             "deploymentId" : "''' + DEPLOY_ID + '''",
                                                             "buttonId" : "''' + BUTTON_ID + '''",
-                                                            "sessionId" : ''' + session_id + ''',
+                                                            "sessionId" : "''' + session_id + '''",
                                                             "userAgent" : "",
                                                             "language" : "en-US",
                                                             "screenResolution" : "1900x1080",
